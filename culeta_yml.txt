@@ -1,0 +1,3 @@
+
+
+sed -i 's/nginx.tsouhaieb.space/portainer.humanoide.es/g' docker-compose.yml
